@@ -1,2 +1,2 @@
-# new
-It is for a new start in github
+# YS's coding box...
+just for learning coding
